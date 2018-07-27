@@ -1,0 +1,15 @@
+
+#goods {
+  display: flex;
+}
+.single-goods {
+  width:13rem;
+  justify-content: space-around;
+  margin: 2rem;
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid black;
+}
+ .single-goods button {
+  margin-top: 20px;
+}

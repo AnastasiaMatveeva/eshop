@@ -1,0 +1,20 @@
+{
+  "11292" : {
+    "name" : "Яблоки" ,
+    "cost" : 12,
+    "description" : "Яблоки спелые, очень красивые",
+    "image" : "images/apple.png"
+  },
+  "11294" : {
+    "name" : "Вишни" ,
+    "cost" : 16,
+    "description" : "Спелые вишни, класные",
+    "image" : "images/cherry.png"
+  },
+  "11295" : {
+    "name" : "Арбуз" ,
+    "cost" : 22,
+    "description" : "Сладкие арбузы без косточек",
+    "image" : "images/watermelon.png"
+  }
+}
